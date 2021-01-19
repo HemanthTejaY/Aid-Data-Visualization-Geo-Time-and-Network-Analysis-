@@ -26,6 +26,13 @@ Below is an **example** of the data:
   <img height="600" width="850" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m1V1.svg">
 </p>
 
+**INFERENCE :** In this visualization, I have considered the top few countries that donated and top few countries that recieved amounts. From the visualization, it is clear that developing countries like India, Thailand, Brazil, Colombia, etc recieve the maximum amount of aid. There are mostly newly developing countries and major developing countries in this list. Therefore, from this visualization - one can conclude that, counntries like India, Brazil, Indonesia, etc receive much more than they donate.
+
+On the contrary, countries like United States, Germany, United Kingdom are developed nations that donate more aid than they recieve. This visualization helps us easily demarcate between the countries that are recieving aid and the ones that are donating aid. We can notice that, there are 2 axis that help us achieve this easy demarcation.
+
+The idea behind having 2 axis is to use one for donated amount and one for received amount. Furthermore, we are also using 2 different set of colors for the bar representations. Additionally, we are also displaying the name of the country on the diverging bars - which makes it easier to distinguish and understand which country falls into which category.
+
+The goal of this visualization is to consider the top countries that are donating and receiving aid. We depict these countries using diverging color bars. This form of visualization helps us understand both the ends of the spectrum. Furthermore, we are not considering all the countries in the dataset - as we have picked a narrow scale. Using a much broader scale can help us visualize more countries, but some countries would not have a visible bar representation. Therefore, we pick a relevant scale to get an overall idea of the top few countries.
 
 **Visualization 2:** Do the countries that mostly receive or mostly donate tend to cluster around specific geographical areas of the world? Are there neighboring countries that have radically different patterns in terms of how much they receive vs. how much they donate?
 
