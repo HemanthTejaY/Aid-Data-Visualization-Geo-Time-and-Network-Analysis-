@@ -59,16 +59,35 @@ b) Are there countries that mostly send or mostly receive and countries that hav
 c) Are there countries that change their role over time? That is, they used to mostly send donations and turn into mostly receiving donations and vice-versa? <br/>
 d) Are there countries in which you can find a sudden increase ("peak") or a sudden decrease ("valley")? <br/>
 
+ <p align="center">
+  <img height="320" width="600" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m1V2.png">
+</p>
 
 **View Code** : [Click Here](https://observablehq.com/d/9c18e1ca8e484c1a) 
 
+**INFERENCE :** In order to answer this question, I have used a heat map with a diverging scale. Note that, the scale uses multiple colors across the spectrum. This helps us get a vivid idea by mapping the respective color. Therefore, by using a diverging color scale with multiple colors, we are able to depict how the donated and received amount varies with time across the different countries.
 
-**INFERENCE :** 
+We are creating a scale ranging from low to high differences in millions of dollars and use this value to determine the color of the cell in the heatmap. Through this heatmap, we are analyzing data from the years 1973 to 2009. A heatmap will help us view the data of multiple countries at the same time. This form of representation will help us compare countries easily and also understand the pattern changes of each country over time. A color scale with multiple colors helps us in understanding these patterns better.
+
+Furthermore, using a heatmap with a common color scale, helps us study the patterns for different countries at the same time. Using a heatmap would be more helpful to compare countries, rather than generating a seperate graph for each country. Furthermore, from the graph we can observe that countries that have provided more donations are in the bottom of the heatmap,while countries which recieve more donations are placed on the top. Ordering the countries in this way, will help us group and demarcate the countries in a better way.
+
+From the heatmap, one can easily infer that countries like India, Thailand and Brazil mostly recieve while on the other hand, countries like Germany and United States mostly donate. We can also conclude that countries like Spain, Korea, Norway, etc which used to receive donations in the earlier years (before 2000s) but have now started giving more donations in 2000s.
+
+This form of represenatation can also help us determine, the lows and highs. In other words, we can determine - which year what country donated the maximum amount (in the given time frame) or which country recieved the maximum amount in a given year. A lot of examples can be seen of the peaks and valleys in the graph. For example, we see that Spain's donations peak around 2006 - 2010. We see a valley for Kuwait in 1992. We see a valley for Australia in 2001. We can also see a valley for Ireland in 2002. So many such examples can be provided of peaks and valleys.
 
 #### Visualization 2:
 **Question:**
 
-**INFERENCE :** 
+ <p align="center">
+  <img height="320" width="600" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m1V2.png">
+</p>
+
+**View Code** : [Click Here](https://observablehq.com/d/9d2e3cf8fa48ca17) 
+**INFERENCE :** Here I have used a line chart to show how the top 10 purposes of disburements vary over time. Each line is color coded and represents a purpose of disburement.This graph provides easy way to see the variations in each of the purposes as well as compare them amongst each other. By using this form of representation, we can compare the top 10 purposes of disburements with their variations in amounts over time. This graph provides easy way to see the variations in each of the purposes as well as compare them amongst each other. We see that RESCHEDULING AND REFINANCING has higher amount than other purposes. 
+
+We can see an increasing trend in Mineral/Metal prospection and exploration purpose and the Telecommunications purpose. These purposes have have more amount in the 2000s. We see that RESCHEDULING AND REFINANCING has an increasing trend during the 90s but starts decreasing during 2000s. Similarly, Power generation/renewable sources has an increasing trend during the early 2000s but starts decreasing post 2005.We also see sudden peaks and valleys. RESCHEDULING AND REFINANCING had peaks in early 1990s and Power generation/renewable sources had peaks post 1990s. We also see sudden peaks and valleys in the graphs of Mineral/Metal prospection and exploration.
+
+
 
 
 
