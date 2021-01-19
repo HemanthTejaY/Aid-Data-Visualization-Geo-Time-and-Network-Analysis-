@@ -35,7 +35,7 @@ The idea behind having 2 axis is to use one for donated amount and one for recei
 
 The goal of this visualization is to consider the top countries that are donating and receiving aid. We depict these countries using diverging color bars. This form of visualization helps us understand both the ends of the spectrum. Furthermore, we are not considering all the countries in the dataset - as we have picked a narrow scale. Using a much broader scale can help us visualize more countries, but some countries would not have a visible bar representation. Therefore, we pick a relevant scale to get an overall idea of the top few countries.
 
-**View Code** : [Click Here](https://observablehq.com/d/274d3900fadd46c1) 
+**View Notebook** : [Click Here](https://observablehq.com/d/274d3900fadd46c1) 
 
 #### Visualization 2:
 **Question:** Do the countries that mostly receive or mostly donate tend to cluster around specific geographical areas of the world? Are there neighboring countries that have radically different patterns in terms of how much they receive vs. how much they donate?
@@ -50,7 +50,7 @@ Therefore, we can conclude that the countries that donate more are United States
 
 Developing Countries in Asia and South America like, India, Bangladesh, Brazil, Argentina recieve most of the aid. In the north American region, USA donates the maximum aid. Similarly we see that western european nations donate more while the eastern europen nations receive more. In the Asian side of the globe, Japan donates the highest Aid whereas India, Bangladesh ,etc recieve aid. Uopn, analyzing the data we can conclude that middle eastern countries like Saudi Arabia, UAE, Kuwait give more aid while countries like Russia recieve aid.
 
-**View Code** : [Click Here](https://observablehq.com/d/274d3900fadd46c1) 
+**View Notebook** : [Click Here](https://observablehq.com/d/274d3900fadd46c1) 
 
 ## Graph Design: TIME
 #### Visualization 1:
@@ -63,7 +63,7 @@ d) Are there countries in which you can find a sudden increase ("peak") or a sud
   <img height="520" width="800" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m2V1.png">
 </p>
 
-**View Code** : [Click Here](https://observablehq.com/d/9c18e1ca8e484c1a) 
+**View Notebook** : [Click Here](https://observablehq.com/d/9c18e1ca8e484c1a) 
 
 **INFERENCE :** In order to answer this question, I have used a heat map with a diverging scale. Note that, the scale uses multiple colors across the spectrum. This helps us get a vivid idea by mapping the respective color. Therefore, by using a diverging color scale with multiple colors, we are able to depict how the donated and received amount varies with time across the different countries.
 
@@ -82,7 +82,7 @@ This form of represenatation can also help us determine, the lows and highs. In 
   <img height="420" width="550" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m2V2.png">
 </p>
 
-**View Code** : [Click Here](https://observablehq.com/d/9d2e3cf8fa48ca17)
+**View Notebook** : [Click Here](https://observablehq.com/d/9d2e3cf8fa48ca17)
 
 **INFERENCE :** Here I have used a line chart to show how the top 10 purposes of disburements vary over time. Each line is color coded and represents a purpose of disburement.This graph provides easy way to see the variations in each of the purposes as well as compare them amongst each other. By using this form of representation, we can compare the top 10 purposes of disburements with their variations in amounts over time. This graph provides easy way to see the variations in each of the purposes as well as compare them amongst each other. We see that RESCHEDULING AND REFINANCING has higher amount than other purposes. 
 
@@ -92,9 +92,9 @@ We can see an increasing trend in Mineral/Metal prospection and exploration purp
 #### Visualization 1:
 **Question:**   Create an overview of the relationships between countries so that it is possible to see who donates to whom and how much. The main question one should be able to answer is: who are the major donors and to which countries do they donate the most and how much? And conversely, who are the major receivers and which countries do they receive from the most and how much? (we only care about the top 10 recipients and the top 20 donors)
 
-**View Code** : [Click Here](https://observablehq.com/d/47dbfe4c5b979c21)
+**View Notebook** : [Click Here](https://observablehq.com/d/47dbfe4c5b979c21)
 
 #### Visualization 2:
 **Question:**  Considering only the top 5 purposes of donation, how does the relationship between countries look like in terms of purposes? What composition (distribution) of  purposes do the donations between each pair of countries have? Are there countries that donate to a given country using multiple purposes? Or do counties always donate using one single purpose when donating to another country? (we only care about the top 10 recipients and the top 20 donors)
 
-**View Code** : [Click Here](https://observablehq.com/d/a2b5cf8fe2f02367)
+**View Notebook** : [Click Here](https://observablehq.com/d/a2b5cf8fe2f02367)
