@@ -22,4 +22,8 @@ Below is an **example** of the data:
 
 **Visualization 1:** How do the countries compare in terms of how much they receive and donate? Are there countries that donate much more than they receive or receive much more than they donate?
 
+**Visualization 2:** 
+
+**Visualization 3:** 
+
 
