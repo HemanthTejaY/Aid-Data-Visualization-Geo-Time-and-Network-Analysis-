@@ -18,5 +18,8 @@ Below is an example of the data:
   <img height="225" width="850" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/data.png">
 </p>
 
+## Graph Design: GEO 
+
+Visualization 1: How do the countries compare in terms of how much they receive and donate? Are there countries that donate much more than they receive or receive much more than they donate?
 
 
