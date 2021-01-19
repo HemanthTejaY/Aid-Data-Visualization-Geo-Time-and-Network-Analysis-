@@ -42,7 +42,13 @@ The goal of this visualization is to consider the top countries that are donatin
   <img height="320" width="600" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m1V2.png">
 </p>
 
+## Graph Design: TIME
+#### Visualization 1:
+**Question:** 
+
 #### Visualization 2:
-**Question:** Are there any major differences in how the top 5 most frequent purposes of disbursements (across all countries) distribute geographically in terms of  countries that receive donations? Are there countries that tend to receive more of certain types of donations than others?
+**Question:**
+
+
 
 
