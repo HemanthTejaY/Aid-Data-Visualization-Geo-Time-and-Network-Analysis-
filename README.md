@@ -60,7 +60,7 @@ c) Are there countries that change their role over time? That is, they used to m
 d) Are there countries in which you can find a sudden increase ("peak") or a sudden decrease ("valley")? <br/>
 
  <p align="center">
-  <img height="320" width="600" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m2V1.png">
+  <img height="520" width="800" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m2V1.png">
 </p>
 
 **View Code** : [Click Here](https://observablehq.com/d/9c18e1ca8e484c1a) 
