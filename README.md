@@ -55,8 +55,11 @@ Developing Countries in Asia and South America like, India, Bangladesh, Brazil, 
 ## Graph Design: TIME
 #### Visualization 1:
 **Question:**  a) How does the amount donated vs. amount received change over time for each country?
+
 b) Are there countries that mostly send or mostly receive and countries that have a similar amount of donations they receive and send?
+
 c) Are there countries that change their role over time? That is, they used to mostly send donations and turn into mostly receiving donations and vice-versa?
+
 d) Are there countries in which you can find a sudden increase ("peak") or a sudden decrease ("valley")?
 
 
