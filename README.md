@@ -6,11 +6,11 @@ In this project, I have used **D3.js** to engineer a comprehensive dashboard tha
 **Simplified Copy of the Dataset Used** : [Simplified Dataset](https://drive.google.com/open?id=1YiuHdfZv_JZ-igOemKJMRaU8dkucfmHxOP6Od3FraW8) 
 
 In the AidData dataset, each row represents a financial transaction between two countries. The dataset contains the following attributes:
-* Year: year of the commitment
-* Donor: country providing the financial resource
-* Recipient: country or organization receiving the money
-* Commitment Amount: the total amount of financial resources provided
-* Coalesced Purpose Name: the purpose of the transaction
+* **Year:** year of the commitment
+* **Donor:** country providing the financial resource
+* **Recipient:** country or organization receiving the money
+* **Commitment Amount:** the total amount of financial resources provided
+* **Coalesced Purpose Name:** the purpose of the transaction
 
 Below is an **example** of the data:
 
