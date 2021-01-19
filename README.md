@@ -35,6 +35,8 @@ The idea behind having 2 axis is to use one for donated amount and one for recei
 
 The goal of this visualization is to consider the top countries that are donating and receiving aid. We depict these countries using diverging color bars. This form of visualization helps us understand both the ends of the spectrum. Furthermore, we are not considering all the countries in the dataset - as we have picked a narrow scale. Using a much broader scale can help us visualize more countries, but some countries would not have a visible bar representation. Therefore, we pick a relevant scale to get an overall idea of the top few countries.
 
+**View Code** : [Click Here](https://observablehq.com/d/274d3900fadd46c1) 
+
 #### Visualization 2:
 **Question:** Do the countries that mostly receive or mostly donate tend to cluster around specific geographical areas of the world? Are there neighboring countries that have radically different patterns in terms of how much they receive vs. how much they donate?
 
@@ -42,12 +44,24 @@ The goal of this visualization is to consider the top countries that are donatin
   <img height="320" width="600" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m1V2.png">
 </p>
 
+**INFERENCE :** In order to depict the geographical distribution of Aid Data, I have used a world map with a spectrum of 2 colors. In this case, I have used "RED" to depict countries where the received amount is more and "NAVY BLUE" to depict countries where donated amount is greater than the recevied amount. The shade of RED/NAVY BLUE encodes the absolute difference between the amount donated and the amount received in $ Billion. Essentially, a very light shade of RED would mean that the country has recieved aid in small amounts. Similarly, a light shade of BLUE would mean that the country has donated aid in small amounts.
+
+Therefore, we can conclude that the countries that donate more are United States, European Nations like Germany, France, Netherlans, UK, Spain. Similarly, we can conclude that Japan has made significant donations in eastern Asia. Australia - a country that is located south of Indonesia, bordered by the Pacific Ocean and Indian Ocean has also donated aid.
+
+Developing Countries in Asia and South America like, India, Bangladesh, Brazil, Argentina recieve most of the aid. In the north American region, USA donates the maximum aid. Similarly we see that western european nations donate more while the eastern europen nations receive more. In the Asian side of the globe, Japan donates the highest Aid whereas India, Bangladesh ,etc recieve aid. Uopn, analyzing the data we can conclude that middle eastern countries like Saudi Arabia, UAE, Kuwait give more aid while countries like Russia recieve aid.
+
+**View Code** : [Click Here](https://observablehq.com/d/274d3900fadd46c1) 
+
 ## Graph Design: TIME
 #### Visualization 1:
 **Question:** 
 
+**INFERENCE :** 
+
 #### Visualization 2:
 **Question:**
+
+**INFERENCE :** 
 
 
 
