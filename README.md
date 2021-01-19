@@ -82,7 +82,8 @@ This form of represenatation can also help us determine, the lows and highs. In 
   <img height="320" width="600" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m2V2.png">
 </p>
 
-**View Code** : [Click Here](https://observablehq.com/d/9d2e3cf8fa48ca17) 
+**View Code** : [Click Here](https://observablehq.com/d/9d2e3cf8fa48ca17)
+
 **INFERENCE :** Here I have used a line chart to show how the top 10 purposes of disburements vary over time. Each line is color coded and represents a purpose of disburement.This graph provides easy way to see the variations in each of the purposes as well as compare them amongst each other. By using this form of representation, we can compare the top 10 purposes of disburements with their variations in amounts over time. This graph provides easy way to see the variations in each of the purposes as well as compare them amongst each other. We see that RESCHEDULING AND REFINANCING has higher amount than other purposes. 
 
 We can see an increasing trend in Mineral/Metal prospection and exploration purpose and the Telecommunications purpose. These purposes have have more amount in the 2000s. We see that RESCHEDULING AND REFINANCING has an increasing trend during the 90s but starts decreasing during 2000s. Similarly, Power generation/renewable sources has an increasing trend during the early 2000s but starts decreasing post 2005.We also see sudden peaks and valleys. RESCHEDULING AND REFINANCING had peaks in early 1990s and Power generation/renewable sources had peaks post 1990s. We also see sudden peaks and valleys in the graphs of Mineral/Metal prospection and exploration.
