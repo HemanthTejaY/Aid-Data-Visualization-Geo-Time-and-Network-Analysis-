@@ -9,3 +9,9 @@ In the AidData dataset, each row represents a financial transaction between two 
 * Recipient: country or organization receiving the money
 * Commitment Amount: the total amount of financial resources provided
 * Coalesced Purpose Name: the purpose of the transaction
+
+Below is an example of the data:
+
+ <p align="center">
+  <img height="225" width="630" src="https://github.com/HemanthTejaY/Deep-Learning-Image-Captioning---A-comparitive-study/blob/main/Attention%2BResNet%20Results/fair/fair2.png">
+</p>
