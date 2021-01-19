@@ -96,6 +96,14 @@ We can see an increasing trend in Mineral/Metal prospection and exploration purp
   <img height="620" width="550" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m3v1.png">
 </p>
 
+**INFERENCE :** I have used a heatmap to represent the amount donated between countries. Note that, we are considering the top 20 donors and top 10 recipients. We are representing the top 20 donor nations on the Y axis and the top 10 recipient nations on the X axis. Note that I am using a red diverging scale to represent the amount donated. A darker shade of red represents a higher amount donated and a lighter shade of red represents a lower amount donated. Also note that the heatmap is sorted in terms of donated amount and recieved amount. This means that the top donors are represented on the topmost part of Y axis and the top recieveing countries are represented on the leftmost part of X axis.
+
+We can make many inferences: for example, Japan makes the most donations to India. India also recieves donations from USA, Germany and UK. Germany makes significant donations to Poland and India. We can also infer about the recieveing nations. For example, Brazil recieves most of donations from USA and Japan. However, Brazil also recieves donations from Germany and France. Thailand on the other hand recieves most of its donations from Japan.
+
+Therefore, amoung the top 20 donor nations - we can conclude that United States, Japan, Germany and United Kingdom make significant donations. USA and Japan combined donate aid greater than $30,000,000,000. Furthermore, amoung the top 10 donor nations - India and Thailand are 2 nations that recieve a lot of aid. Other nations like Brazil, Columbia and Korea also recieve aid - but not as much as India and Thailand.
+
+Hence, the major recievers are India and Thailand. India recieves a combined aid greater than $40,000,000,000 from USA, Japan, Germany and UK.
+
 **View Notebook** : [Click Here](https://observablehq.com/d/47dbfe4c5b979c21)
 
 #### Visualization 2:
@@ -104,5 +112,11 @@ We can see an increasing trend in Mineral/Metal prospection and exploration purp
  <p align="center">
   <img height="620" width="550" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m3v22.png">
 </p>
+
+**INFERENCE :** For this particular visualization, I have used a colored pie chart. I have used 5 different vibrant colors that can be viewed easily on the black background. Each of these five colors represent the top 5 purposes. The top 5 purposes are - Air Transport, Rail Transport, Industrial Development, Power generation/non-renewable sources and Rescheduling and refinancing. The pie chart for each country is color coded and divided. These divisions and color codes represent the amount for the particular purpose. The divisions within the pie chart represent the proportion of the particular purpose that is encoded by a color. The radius of the pie charts range from 14 to 28 units. This is because, the size of the pie chart represents total amount donated for the top 5 purposes, by a particular nation. As per the requirement, we are considering the top 20 donors that are represented on the Y axis. Furthermore, we are considering the top 10 recipients - which are represented on the X axes (top and bottom).
+
+From this form of representation, we can clearlt infer how the major donors make their donations among the different purposes. We see that United States makes major donations for Industrial Development, Power generation/non-renewable sources and Air Transport. We can also conclude that USA makes most major donations in Air Tranport (except to Kuwait). Likewise Japan donates a major portion to Rail Transport. We see Sweden, Norway and Canada donating in small portions for Industrial Development.
+
+Additionally, we can also make inferences about the reciepient nations. For example, we can conclude that Poland recieves major donations from Germany and Belgium for Rescheduling and refinancing.On the other hand we see South Africa, Chile and Brazil receiving a high portion of donations for Industrial Development. Power generation/non-renewable sources aid goes mainly to India, Thailand and Colombia. Air Transport Aid (except for Kuwait) and aid for Industrial Development seems to be evenly distributed among the top 10 recipient nations.
 
 **View Notebook** : [Click Here](https://observablehq.com/d/a2b5cf8fe2f02367)
