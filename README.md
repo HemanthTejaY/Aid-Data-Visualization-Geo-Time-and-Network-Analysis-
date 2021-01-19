@@ -88,8 +88,13 @@ This form of represenatation can also help us determine, the lows and highs. In 
 
 We can see an increasing trend in Mineral/Metal prospection and exploration purpose and the Telecommunications purpose. These purposes have have more amount in the 2000s. We see that RESCHEDULING AND REFINANCING has an increasing trend during the 90s but starts decreasing during 2000s. Similarly, Power generation/renewable sources has an increasing trend during the early 2000s but starts decreasing post 2005.We also see sudden peaks and valleys. RESCHEDULING AND REFINANCING had peaks in early 1990s and Power generation/renewable sources had peaks post 1990s. We also see sudden peaks and valleys in the graphs of Mineral/Metal prospection and exploration.
 
+## Graph Design: NETWORKS
+#### Visualization 1:
+**Question:**   Create an overview of the relationships between countries so that it is possible to see who donates to whom and how much. The main question one should be able to answer is: who are the major donors and to which countries do they donate the most and how much? And conversely, who are the major receivers and which countries do they receive from the most and how much? (we only care about the top 10 recipients and the top 20 donors)
 
+**View Code** : [Click Here](https://observablehq.com/d/47dbfe4c5b979c21)
 
+#### Visualization 2:
+**Question:**  Considering only the top 5 purposes of donation, how does the relationship between countries look like in terms of purposes? What composition (distribution) of  purposes do the donations between each pair of countries have? Are there countries that donate to a given country using multiple purposes? Or do counties always donate using one single purpose when donating to another country? (we only care about the top 10 recipients and the top 20 donors)
 
-
-
+**View Code** : [Click Here](https://observablehq.com/d/a2b5cf8fe2f02367)
