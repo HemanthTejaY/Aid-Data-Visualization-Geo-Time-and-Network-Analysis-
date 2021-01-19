@@ -20,7 +20,7 @@ Below is an **example** of the data:
 
 ## Graph Design: GEO 
 
-## Visualization 1:
+#### Visualization 1:
 **Question 1:** How do the countries compare in terms of how much they receive and donate? Are there countries that donate much more than they receive or receive much more than they donate?
 
  <p align="center">
