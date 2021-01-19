@@ -93,12 +93,16 @@ We can see an increasing trend in Mineral/Metal prospection and exploration purp
 **Question:**   Create an overview of the relationships between countries so that it is possible to see who donates to whom and how much. The main question one should be able to answer is: who are the major donors and to which countries do they donate the most and how much? And conversely, who are the major receivers and which countries do they receive from the most and how much? (we only care about the top 10 recipients and the top 20 donors)
 
  <p align="center">
-  <img height="620" width="550" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m3v22.png">
+  <img height="620" width="550" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m3v1.png">
 </p>
 
 **View Notebook** : [Click Here](https://observablehq.com/d/47dbfe4c5b979c21)
 
 #### Visualization 2:
 **Question:**  Considering only the top 5 purposes of donation, how does the relationship between countries look like in terms of purposes? What composition (distribution) of  purposes do the donations between each pair of countries have? Are there countries that donate to a given country using multiple purposes? Or do counties always donate using one single purpose when donating to another country? (we only care about the top 10 recipients and the top 20 donors)
+
+ <p align="center">
+  <img height="620" width="550" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m3v22.png">
+</p>
 
 **View Notebook** : [Click Here](https://observablehq.com/d/a2b5cf8fe2f02367)
