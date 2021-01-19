@@ -79,7 +79,7 @@ This form of represenatation can also help us determine, the lows and highs. In 
 **Question:**
 
  <p align="center">
-  <img height="520" width="700" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m2V2.png">
+  <img height="420" width="550" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m2V2.png">
 </p>
 
 **View Code** : [Click Here](https://observablehq.com/d/9d2e3cf8fa48ca17)
