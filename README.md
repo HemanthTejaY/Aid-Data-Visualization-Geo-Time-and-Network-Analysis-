@@ -13,5 +13,5 @@ In the AidData dataset, each row represents a financial transaction between two 
 Below is an example of the data:
 
  <p align="center">
-  <img height="225" width="790" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/data.png">
+  <img height="225" width="850" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/data.png">
 </p>
