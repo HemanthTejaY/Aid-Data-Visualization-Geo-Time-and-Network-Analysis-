@@ -21,7 +21,7 @@ Below is an **example** of the data:
 ## Graph Design: GEO 
 
 #### Visualization 1:
-**Question 1:** How do the countries compare in terms of how much they receive and donate? Are there countries that donate much more than they receive or receive much more than they donate?
+**Question:** How do the countries compare in terms of how much they receive and donate? Are there countries that donate much more than they receive or receive much more than they donate?
 
  <p align="center">
   <img height="600" width="850" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m1V1.svg">
@@ -35,12 +35,14 @@ The idea behind having 2 axis is to use one for donated amount and one for recei
 
 The goal of this visualization is to consider the top countries that are donating and receiving aid. We depict these countries using diverging color bars. This form of visualization helps us understand both the ends of the spectrum. Furthermore, we are not considering all the countries in the dataset - as we have picked a narrow scale. Using a much broader scale can help us visualize more countries, but some countries would not have a visible bar representation. Therefore, we pick a relevant scale to get an overall idea of the top few countries.
 
-**Visualization 2:** Do the countries that mostly receive or mostly donate tend to cluster around specific geographical areas of the world? Are there neighboring countries that have radically different patterns in terms of how much they receive vs. how much they donate?
+#### Visualization 2:
+**Question:** Do the countries that mostly receive or mostly donate tend to cluster around specific geographical areas of the world? Are there neighboring countries that have radically different patterns in terms of how much they receive vs. how much they donate?
 
  <p align="center">
   <img height="320" width="600" src="https://github.com/HemanthTejaY/Aid-Data-Visualization-Geo-Time-and-Network-Analysis-/blob/main/images/m1V2.png">
 </p>
 
-**Visualization 3:** Are there any major differences in how the top 5 most frequent purposes of disbursements (across all countries) distribute geographically in terms of  countries that receive donations? Are there countries that tend to receive more of certain types of donations than others?
+#### Visualization 2:
+**Question:** Are there any major differences in how the top 5 most frequent purposes of disbursements (across all countries) distribute geographically in terms of  countries that receive donations? Are there countries that tend to receive more of certain types of donations than others?
 
 
