@@ -1,0 +1,14 @@
+{
+  "name": "47dbfe4c5b979c21",
+  "main": "47dbfe4c5b979c21@235.js",
+  "version": "235.0.0",
+  "homepage": "https://observablehq.com/d/47dbfe4c5b979c21",
+  "author": {
+    "name": "HemanthTeja Yanambakkam",
+    "url": "https://observablehq.com/@hemanthteja"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
