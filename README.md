@@ -22,8 +22,8 @@ Below is an **example** of the data:
 
 **Visualization 1:** How do the countries compare in terms of how much they receive and donate? Are there countries that donate much more than they receive or receive much more than they donate?
 
-**Visualization 2:** 
+**Visualization 2:** Do the countries that mostly receive or mostly donate tend to cluster around specific geographical areas of the world? Are there neighboring countries that have radically different patterns in terms of how much they receive vs. how much they donate?
 
-**Visualization 3:** 
+**Visualization 3:** Are there any major differences in how the top 5 most frequent purposes of disbursements (across all countries) distribute geographically in terms of  countries that receive donations? Are there countries that tend to receive more of certain types of donations than others?
 
 
