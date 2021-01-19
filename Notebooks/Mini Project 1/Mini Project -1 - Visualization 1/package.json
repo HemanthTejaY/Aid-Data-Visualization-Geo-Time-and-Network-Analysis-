@@ -1,0 +1,14 @@
+{
+  "name": "274d3900fadd46c1",
+  "main": "274d3900fadd46c1@673.js",
+  "version": "673.0.0",
+  "homepage": "https://observablehq.com/d/274d3900fadd46c1",
+  "author": {
+    "name": "HemanthTeja Yanambakkam",
+    "url": "https://observablehq.com/@hemanthteja"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
